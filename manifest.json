@@ -1,0 +1,19 @@
+{
+  "name": "Pista di Andrea e Michela – Lesmo",
+  "short_name": "Pista Lesmo",
+  "description": "Gestione della Pista del Ghiaccio di Lesmo di Michela e Andrea",
+  "lang": "it",
+  "id": "./?app=pista-lesmo",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#081A33",
+  "theme_color": "#081A33",
+  "icons": [
+    { "src": "icone/icona-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
