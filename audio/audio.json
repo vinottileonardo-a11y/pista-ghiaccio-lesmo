@@ -453,6 +453,33 @@
   "testo": "Attenzione, attenzione! Tra pochi istanti la pista verrà pulita. Fate attenzione alla pala: lasciate passare chi pulisce e pattinate con prudenza. Grazie a tutti!"
  },
  {
+  "id": "evento_fuoco",
+  "file": "evento_fuoco.mp3",
+  "categoria": "servizi",
+  "testo": "Segnatevi la data! Martedì otto dicembre, dalle sedici, sul ghiaccio arriva lo spettacolo del fuoco! Uno show tutto da vedere... vi aspettiamo!",
+  "fino": "2026-12-08"
+ },
+ {
+  "id": "evento_babbo_natale",
+  "file": "evento_babbo_natale.mp3",
+  "categoria": "servizi",
+  "testo": "Sabato dodici dicembre, dalle quindici alle sedici, in pista arriva Babbo Natale! Portate le vostre letterine... ma fate attenzione, perché ci sarà anche il Grinch!",
+  "fino": "2026-12-12"
+ },
+ {
+  "id": "evento_mascotte",
+  "file": "evento_mascotte.mp3",
+  "categoria": "servizi",
+  "testo": "Mercoledì sei gennaio, alle quindici, arrivano sul ghiaccio le mascotte giganti: Minnie, Pluto e Topolino! Non mancate!",
+  "fino": "2027-01-06"
+ },
+ {
+  "id": "compleanni",
+  "file": "compleanni.mp3",
+  "categoria": "servizi",
+  "testo": "Lo sapevate? Qui da noi si possono organizzare anche le feste di compleanno! Avrete a disposizione la pista di pattinaggio, il gioco gonfiabile, lo zucchero filato e una bottiglietta d'acqua. Per informazioni, chiedete al personale!"
+ },
+ {
   "id": "jingle_richiamo",
   "file": "jingle_richiamo.mp3",
   "categoria": "jingle",
